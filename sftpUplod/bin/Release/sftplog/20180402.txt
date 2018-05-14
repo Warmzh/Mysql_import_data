@@ -1,0 +1,27 @@
+14:15:33:2353041 Open Auto======================
+14:17:18:6171801 -->Query 152ClassSum:0
+14:18:50:7297485 -->Query ProgressEmpClassSum:41694
+14:31:21:7762611 -->Update152_EmpClassOK:0
+14:31:21:8399303 -->insert152_EmpClassOK:21810
+14:31:37:0248290 -->Query 153ClassSum:21810
+14:31:57:4977980 -->Query ProgressEmpClassSum:41694
+14:32:07:7681222 -->Update153_EmpClassOK:1272
+14:32:07:8403140 -->insert153_EmpClassOK:0
+15:31:38:0502493 Open Auto======================
+15:31:44:9130072 -->Query 152ClassSum:21810
+15:32:05:0074692 -->Query ProgressEmpClassSum:41760
+15:32:19:9146592 Open Auto======================
+15:32:24:4401992 -->Query 152ClassSum:21810
+15:32:44:0548883 -->Query ProgressEmpClassSum:41760
+15:33:18:3215536 Open Auto======================
+15:33:27:4754076 -->Query 152ClassSum:21810
+15:33:47:2811010 -->Query ProgressEmpClassSum:41760
+15:35:14:0203749 Open Auto======================
+15:35:20:7292238 -->Query 152ClassSum:21942
+15:35:40:5775304 -->Query ProgressEmpClassSum:41760
+15:36:36:3534223 -->Update152_EmpClassOK:0
+15:36:36:3764833 -->insert152_EmpClassOK:0
+15:36:48:9008043 -->Query 153ClassSum:21942
+15:37:08:4798978 -->Query ProgressEmpClassSum:41760
+15:37:14:6192315 -->Update153_EmpClassOK:0
+15:37:14:6342715 -->insert153_EmpClassOK:0

@@ -1,0 +1,12 @@
+14:12:12:3251179 Open Auto======================
+14:12:17:7184552 -->SelectSqlServerSum:4405
+14:16:48:0973725 Open Auto======================
+14:20:32:6622404 Open Auto======================
+14:22:00:9524173 -->SelectSqlServerSum:4405
+14:23:33:9117708 -->Query ProgressEMPRSum:45315
+14:24:46:7092915 -->Update152_EmployeeOK:760
+14:24:46:7403753 -->insert152_EmployeeOK:3591
+14:25:01:1302010 -->SelectSqlServerSum:3581
+14:25:26:5217358 -->Query ProgressEMPRSum:45315
+14:25:32:1968215 -->Update153_EmployeeOK:1704
+14:25:32:2183799 -->insert153_EmployeeOK:1229

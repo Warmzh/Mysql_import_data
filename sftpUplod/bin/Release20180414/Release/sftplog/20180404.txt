@@ -1,0 +1,16 @@
+14:59:44:7418927 Open Auto======================
+15:03:23:0898623 -->Update152_EmpClassOK:1
+15:05:12:8172922 -->Update152_EmpClassOK:1
+15:05:41:2083270 -->Update152_EmpClassOK:1
+15:05:41:2920490 -->Update152_EmpClassOK:1
+15:05:45:9815266 -->Update153_EmpClassOK:1
+15:05:46:1981022 -->Update153_EmpClassOK:1
+15:06:26:5554729 Open Auto======================
+15:06:32:4677026 -->Update153_EmpClassOK:1
+15:06:32:8206416 -->Update153_EmpClassOK:1
+15:41:15:2260553 Open Auto======================
+15:44:54:2974265 Open Auto======================
+15:44:57:9646840 -->Update152_EmpClassOK:1
+15:44:58:2394137 -->Update152_EmpClassOK:1
+15:44:58:4178892 -->Update152_EmpClassOK:1
+15:44:58:5276814 -->Update152_EmpClassOK:1

@@ -1,0 +1,17 @@
+10:13:23:8210348 Open Auto======================
+10:14:20:9685766 -->SelectSqlServerSum:4521
+10:15:13:8392390 -->Query ProgressEMPRSum:45768
+10:16:03:5770660 -->insert152_EmpClassError,Rollback :列“emp.EMP_CD”不属于表 。
+10:16:15:2576732 -->SelectSqlServerSum:3515
+10:16:40:5128647 -->Query ProgressEMPRSum:45768
+10:16:45:0168478 -->Update153_EmployeeOK:417
+10:16:45:0830248 -->insert153_EmployeeOK:201
+10:22:50:2671004 Open Auto======================
+10:23:00:7284586 -->SelectSqlServerSum:4521
+10:23:26:1716507 -->Query ProgressEMPRSum:45768
+10:23:31:7073785 -->Update152_EmployeeOK:4219
+10:23:31:7991230 -->insert152_EmployeeOK:227
+10:23:39:8189593 -->SelectSqlServerSum:3515
+10:24:04:8796369 -->Query ProgressEMPRSum:45768
+10:24:09:8047405 -->Update153_EmployeeOK:2987
+10:24:09:8794400 -->insert153_EmployeeOK:0

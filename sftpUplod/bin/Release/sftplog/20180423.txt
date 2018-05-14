@@ -1,0 +1,98 @@
+09:00:30:1973377 Open Auto======================
+09:08:26:1885080 Open Auto======================
+09:10:52:2581811 Open Auto======================
+09:23:44:8831810 Open Auto======================
+09:31:43:2189665 Open Auto======================
+09:32:39:5827799 -->Update152_EmpClassOK:7
+09:33:24:2934071 -->Update153_EmpClassOK:0
+09:42:05:1943628 Open Auto======================
+09:44:13:1517427 Open Auto======================
+09:44:29:4214070 Open Auto======================
+10:14:29:8370304 Open Auto======================
+10:17:50:4473552 Open Auto======================
+10:19:55:5343220 Open Auto======================
+10:20:51:2108896 Open Auto======================
+10:23:11:9604494 Open Auto======================
+10:23:30:8737353 -->Update152_EmpClassOK:1
+10:25:56:8123760 Open Auto======================
+10:26:58:6862150 -->Update152_EmpClassOK:3462
+10:28:40:4586476 Open Auto======================
+10:32:26:4143243 Open Auto======================
+10:36:16:0133021 Open Auto======================
+10:37:43:9278516 -->Update152_EmpClassOK:3450
+10:38:59:3318062 Open Auto======================
+10:42:20:9575001 Open Auto======================
+10:44:08:6097020 Open Auto======================
+10:46:27:6491262 Open Auto======================
+10:47:10:7411686 -->Update152_EmpClassOK:3069
+10:48:27:1337557 Open Auto======================
+10:49:09:3005454 -->Update152_EmpClassOK:3069
+10:49:57:7241476 Open Auto======================
+10:50:40:2794314 -->Update152_EmpClassOK:3069
+10:54:09:5912617 Open Auto======================
+10:56:24:4171434 -->Update152_EmpClassOK:10474
+10:57:47:3527360 Open Auto======================
+11:08:41:6955915 Open Auto======================
+11:09:47:6563475 Open Auto======================
+13:24:07:4241843 Open Auto======================
+13:39:15:3583336 Open Auto======================
+13:40:55:2308859 -->Update152_EmpClassOK:1
+13:55:13:5187918 Open Auto======================
+13:55:32:0932420 -->Query ProgressDeptSum:741
+14:34:27:3856456 Open Auto======================
+14:36:53:2378730 -->Update152_EmpClassOK:0
+14:41:38:8725069 Open Auto======================
+14:41:41:8861869 -->Update152_EmpClassOK:7
+14:46:16:5577684 Open Auto======================
+14:50:06:4262841 -->Update152_EmpClassOK:10474
+14:58:25:8530519 Open Auto======================
+15:00:47:4427264 -->Update152_EmpClassOK:10474
+15:02:53:7181735 Open Auto======================
+15:06:56:1746697 -->Update152_EmpClassOK:0
+15:08:02:4724081 Pause Read...
+15:08:33:6631323 Open Auto======================
+15:12:38:3793052 -->Update152_EmpClassOK:10474
+15:15:03:9688118 Pause Read...
+15:19:17:6463921 Open Auto======================
+15:22:26:5881512 -->insert152_EmpClassError,Rollback :You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.Generic.List`1[System.String]' at line 1
+15:38:01:2348155 Open Auto======================
+15:40:28:5594103 Open Auto======================
+15:41:48:9460905 -->Update152_EmpClassOK:7
+15:44:27:2825399 Open Auto======================
+15:44:30:3096295 -->insert152_EmpClassError,Rollback :Packets larger than max_allowed_packet are not allowed.
+15:47:13:0775907 Open Auto======================
+15:47:45:7980633 -->insert152_EmpClassError,Rollback :Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+15:49:26:2065667 Open Auto======================
+15:49:35:2706802 -->insert152_EmpClassError,Rollback :Packets larger than max_allowed_packet are not allowed.
+16:15:13:2796981 Open Auto======================
+16:16:08:2353331 Open Auto======================
+16:17:19:0951175 -->Update152_EmpClassOK:7
+16:22:43:6300020 Open Auto======================
+16:24:20:2300804 -->Update152_EmpClassOK:7
+16:25:55:4753578 Open Auto======================
+16:27:28:1810282 -->Update152_EmpClassOK:7
+16:27:56:4728053 Open Auto======================
+16:29:36:2521430 -->Update152_EmpClassOK:7
+16:30:25:0732860 Open Auto======================
+16:30:28:1872586 -->Update152_EmpClassOK:0
+16:30:54:9697320 Open Auto======================
+16:31:01:3787710 -->Update152_EmpClassOK:7
+16:31:25:3347374 Open Auto======================
+16:32:12:8109296 -->insert152_EmpClassError,Rollback :Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+16:33:42:0669600 Open Auto======================
+16:39:46:3093736 Open Auto======================
+16:39:51:9224426 -->insert152_EmpClassError,Rollback :The CommandText property has not been properly initialized.
+16:40:38:3885517 Open Auto======================
+16:40:40:7652648 -->Update152_EmpClassOK:7
+16:45:17:8629146 Open Auto======================
+16:46:40:3424828 -->Update152_EmpClassOK:5946
+16:48:50:9008640 Open Auto======================
+16:48:51:4021917 -->Update152_EmpClassOK:0
+16:50:55:2486588 Open Auto======================
+16:52:20:0133497 -->Update152_EmpClassOK:5946
+16:53:33:3254704 Open Auto======================
+16:57:34:5289741 -->Update152_EmpClassOK:0
+17:00:21:9204667 Open Auto======================
+17:03:38:2571421 -->Update152_EmpClassOK:11892
+17:05:44:6867429 Open Auto======================
+17:10:00:1189255 -->Update152_EmpClassOK:5946
